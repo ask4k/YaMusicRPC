@@ -1,0 +1,18 @@
+# Локальные настройки и данные
+config.json
+yandex_music_rpc.log
+covers.sqlite3
+covers.sqlite3-wal
+covers.sqlite3-shm
+
+# Артефакты сборки
+build/
+dist/
+*.spec
+__pycache__/
+*.py[cod]
+
+# Окружение
+.venv/
+venv/
+.env

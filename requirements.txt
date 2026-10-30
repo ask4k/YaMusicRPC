@@ -1,0 +1,6 @@
+pypresence>=4.6.2
+winsdk>=1.0.0b10
+requests>=2.31
+pillow>=10.0
+pystray>=0.19
+pyinstaller>=6.0
